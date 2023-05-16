@@ -2,5 +2,5 @@ spring:
   data:
     mongodb:
       database: Book
-      host: mrdevopsmongodb 
+      host: mangocon1
       port: 27017
